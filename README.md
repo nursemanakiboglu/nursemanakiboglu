@@ -5,6 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursemanakiboglu&label=Profile%20views&color=0e75b6&style=flat" alt="nursemanakiboglu" /> </p>
 
 - 🌱 I’m currently learning **SWIFT**
+ 
+- 👩🏻‍💻 I'm currently working on Up School/Akbank Bootcamp
 
 - 💬 Ask me about **SWIFT and Android Studio(JAVA)**
 
