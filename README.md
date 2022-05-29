@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nursema</h1>
 <h3 align="center">A passionate mobile and full-stack developer from Turkey</h3>
-<img align=“right” alt= ”Coding” width=”400”  src=”https://static.wixstatic.com/media/3e899a_d32cbe5629b041038ecb2be1a15a49d5~mv2.gif”>
+<img align=“right”  src=”https://static.wixstatic.com/media/3e899a_d32cbe5629b041038ecb2be1a15a49d5~mv2.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursemanakiboglu&label=Profile%20views&color=0e75b6&style=flat" alt="nursemanakiboglu" /> </p>
 
