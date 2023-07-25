@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursemanakiboglu&label=Profile%20views&color=0e75b6&style=flat" alt="nursemanakiboglu" /> </p>
 
-- 🌱 I’m currently learning **SWIFT**
+- 🌱 I’m currently learning **.NET**
  
-- 👩🏻‍💻 I'm currently working on Up School/Akbank Bootcamp
+- 👩🏻‍💻 I'm currently working on Innova 
 
 - 💬 Ask me about **SWIFT and Android Studio(JAVA)**
 
-- 📫 How to reach me **nsemanakiboglu@icloud.com**
+- 📫 How to reach me **nakiboglunsema@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
