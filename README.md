@@ -4,11 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nursemanakiboglu&label=Profile%20views&color=0e75b6&style=flat" alt="nursemanakiboglu" /> </p>
 
-- 🌱 I’m currently learning **.NET and JavaScript**
+- 🌱 I'm actively learning **Python and React** to expand my frontend and backend development skills.
  
-- 👩🏻‍💻 I'm currently working on Innova 
-
-- 💬 Ask me about **SWIFT and Android Studio(JAVA)**
+- 👩🏻‍💻 Currently undergoing training at Lotus AI
 
 - 📫 How to reach me **nakiboglunsema@gmail.com**
 
